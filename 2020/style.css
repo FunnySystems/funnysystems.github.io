@@ -30,6 +30,7 @@ img{max-width: 95%;}
 .navbar-brand svg{
 	width: 215px;
 }
+#f1 p,#f2 p{text-align: left;}
 .navbar-brand:hover {
 	color: #EB233C;
 }
