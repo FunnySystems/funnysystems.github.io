@@ -467,7 +467,7 @@ ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li
 }
 
 #banner .bg-overlay {
-	padding: 90px 25px;
+	padding:80px 10px 20px;
 }
 .banner-text h2 {
 	font-size: 35px;
@@ -482,7 +482,7 @@ nav > li > a:focus, .nav > li > a:hover, .nav > li > a:focus, .nav > li.active >
 }
 #banner .banner-text{
 	background: url(images/text-mobile.png) center center no-repeat;
-    height: 395px;
+    height: 512px;
     background-size: contain;
 
 }
